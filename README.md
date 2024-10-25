@@ -1,6 +1,5 @@
 # Conversor de Moedas
-
-Este é um código em Java que realiza a conversão cambial entre seis tipos diferentes de moedas. O projeto foi desenvolvido como parte do curso Praticando Java: Challenge - Conversor de Moedas da Especialização em Back-end da Alura e Oracle Education.
+Projeto do desafio Challenge ALURA Back-end.
 
 ## Funcionalidades
 - Conversão entre seis moedas:
